@@ -22,9 +22,9 @@ I love learning new things, and I like taking a piece of mathematics apart, impl
 
 ## 🛠️ Toolbox
 
-**Languages:** Python · LaTeX
-**Libraries:** NumPy · SciPy · pandas · Matplotlib · scikit-learn · cvxopt
-**Tools:** Jupyter · Git
+- **Languages:** Python · LaTeX
+- **Libraries:** NumPy · SciPy · pandas · Matplotlib · scikit-learn · cvxopt
+- **Tools:** Jupyter · Git
 
 ---
 
