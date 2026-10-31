@@ -4,7 +4,7 @@ B.Sc. student in **Applied Mathematics for Artificial Intelligence** at **Sapien
 
 I love learning new things, and I like taking a piece of mathematics apart, implementing it from scratch, and checking that what the theory promises actually shows up in the numbers. Most of my projects follow the same pattern: **derive → implement in NumPy → verify numerically → apply to a real-world problem**, often from sport, which has always been a big part of my life (I played rugby for years). When I'm not coding, I'm probably traveling.
 
-**Interests:** machine learning · deep learning · statistical learning · numerical linear algebra · optimization · probability · calculus . sports analytics 
+**Interests:** machine learning · deep learning · statistical learning · numerical linear algebra · optimization · probability · calculus · sports analytics 
 
 🎯 **Open to ML / data science internships from 2027.**
 
