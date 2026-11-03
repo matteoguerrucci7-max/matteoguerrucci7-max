@@ -6,7 +6,7 @@ I love learning new things, and I like taking a piece of mathematics apart, impl
 
 **Interests:** machine learning · deep learning · statistical learning · numerical linear algebra · optimization · probability · calculus · sports analytics 
 
-🎯 **Open to ML / data science internships from 2027.**
+🎯 **Open to research opportunities and ML internships**
 
 ---
 
