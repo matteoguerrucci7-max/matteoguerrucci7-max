@@ -30,8 +30,10 @@ I love learning new things, and I like taking a piece of mathematics apart, impl
 
 ## 📫 Contact
 
-- LinkedIn: [Matteo Guerrucci](www.linkedin.com/in/
-matteo-guerrucci-b85770338)
+- LinkedIn: [Matteo Guerrucci] (https://www.linkedin.com/in/
+matteo-guerrucci-b85770338
+Vanity URL name
+)
 
 - GitHub: you're here 🙂
 
