@@ -30,7 +30,9 @@ I love learning new things, and I like taking a piece of mathematics apart, impl
 
 ## 📫 Contact
 
-- LinkedIn: *coming soon*
+- LinkedIn: www.linkedin.com/in/
+matteo-guerrucci-b85770338
+
 - GitHub: you're here 🙂
 
 <!--
